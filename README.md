@@ -8,3 +8,6 @@ I will be building three models that will predict who survives the split and eva
 1) Logistic Regression
 2) Support Vector Machine (SVM)
 3) K-Nearest Neighbor
+
+## Conclusion  
+Logisitic Regression model had the best performance. SVM model had a similar performance as the logistic regression model, but wasn't as accurate and precise. K-Nearest Neighbor was the worst performing model which shows that it isn't the best model for this type of dataset.
